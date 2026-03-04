@@ -102,7 +102,7 @@ Simulate shifting optimisation focus toward higher-yield channels.
 The interactive dashboard was built in Tableau Public.
 
 View Interactive Dashboard:  
-PASTE_YOUR_TABLEAU_LINK_HERE
+https://public.tableau.com/views/MarketingChannelPerformance_17696986047020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
