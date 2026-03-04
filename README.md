@@ -111,7 +111,7 @@ https://public.tableau.com/views/MarketingChannelPerformance_17696986047020/Dash
 - Google BigQuery — Data querying and aggregation
 - SQL — Metric derivation and performance modelling
 - Tableau Public — Data visualisation
-- PowerPoint — Stakeholder presentation
+- Google Slides — Stakeholder presentation
 
 ---
 
